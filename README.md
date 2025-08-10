@@ -23,16 +23,19 @@ This project is built for learning purposes — to understand how CRUD works in 
 
 ### 1️⃣ Clone the repository
 
-python -m venv venv
-# Activate on Windows
-venv\Scripts\activate
-# Activate on Mac/Linux
-source venv/bin/activate
+1.python -m venv venv
+# Activate 
+windows : venv\Scripts\activate
+# Activate 
+Linux/mac : source venv/bin/activate
 
-pip install django
-python manage.py migrate
-python manage.py runserver 6030
+2.pip install django
+3.python manage.py migrate
+4.python manage.py runserver 6030
 
 Open http://localhost:6030 in your browser to view the app.
 
 ![Demo Screenshot](images/demo.png)
+
+Happy coding! 🎉
+---
