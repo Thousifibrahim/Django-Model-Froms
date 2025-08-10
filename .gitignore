@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# Django specific
+db.sqlite3
+*.log
+
+# Pytest / Unit test cache
+.pytest_cache/
+.coverage
+coverage.xml
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Migrations cache (optional, if you don't want to share)
+#migrations/
