@@ -35,7 +35,7 @@ Linux/mac : source venv/bin/activate
 
 Open http://localhost:6030 in your browser to view the app.
 
-![Demo Screenshot](images/demo.png)
+![Demo Screenshot](demo.png)
 
 Happy coding! 🎉
 ---
